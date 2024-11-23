@@ -1,4 +1,4 @@
-# Quality Assurance Project
+# Quality Assurance Project - ECODRIVE
 
 ## Pitch
 - [Pitch Video](https://www.youtube.com/watch?v=8bzh6oU2oPI)
